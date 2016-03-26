@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/My3Application.iml" filepath="$PROJECT_DIR$/My3Application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myfragmentdem3/myfragmentdem3.iml" filepath="$PROJECT_DIR$/myfragmentdem3/myfragmentdem3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myfragmentdemo1/myfragmentdemo1.iml" filepath="$PROJECT_DIR$/myfragmentdemo1/myfragmentdemo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myfragmentdemo2/myfragmentdemo2.iml" filepath="$PROJECT_DIR$/myfragmentdemo2/myfragmentdemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myfragmentdemo3/myfragmentdemo3.iml" filepath="$PROJECT_DIR$/myfragmentdemo3/myfragmentdemo3.iml" />
+    </modules>
+  </component>
+</project>

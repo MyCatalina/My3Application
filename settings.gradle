@@ -1,0 +1,1 @@
+include ':app', ':myfragmentdemo1', ':myfragmentdemo2', ':myfragmentdem3', ':myfragmentdemo3'
